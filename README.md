@@ -19,8 +19,8 @@ Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 Além dos comportamentos esperados, eu adicionei alguns métodos extras como:
 selecionarBanda, selecionarAlbum e adicionarContato.
 
-Também quis adicionar uma interatividade do usuário usando o SCANNER.
-No método tocar, eu adicionei a opçao pra que ele possa digitar a musica que ele quer ouvir.
+Também quis adicionar uma interatividade do usuário.
+No método tocar, usei o scanner para que o usuário possa digitar a música que quer ouvir
 
 
 
