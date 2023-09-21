@@ -1,28 +1,18 @@
 # Desafio-Projeto-Iphone
-Repositório pra armazenar desafio de projeto 
-
-
-
+ 
 
 # Desafio de projeto proposto no curso Developer Java da DIO. 
 
-Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
-Baseando no vídeo de lançamento do Iphone (2007), além da diagramção UML, foi proposto criar classes e interfaces representar os papéis do iPhone 
+Modelagem e diagramação da representação em UML e código referente ao iPhone. Com base no vídeo de lançamento do iPhone (2007), além da diagramação UML, foi proposto criar classes e interfaces para representar os papéis do iPhone.
 
+### Comportamentos esperados:
+- Reprodutor Musical: tocar, pausar, selecionarMúsica
+- Aparelho Telefônico: ligar, atender, iniciarCorreioDeVoz
+- Navegador na Internet: exibirPágina, adicionarNovaAba, atualizarPágina
 
-Comportamentos esperados:
-Repodutor Musicial: tocar, pausar, selecionarMusica
-Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
-Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+- Além dos comportamentos esperados, adicionei alguns métodos extras como: selecionarBanda, selecionarÁlbum e adicionarContato.
 
-
-Além dos comportamentos esperados, eu adicionei alguns métodos extras como:
-selecionarBanda, selecionarAlbum e adicionarContato.
-
-Também quis adicionar uma interatividade do usuário.
-No método tocar, usei o scanner para que o usuário possa digitar a música que quer ouvir
-
-
+- Também quis adicionar uma interatividade do usuário. No método tocar, usei o scanner para que o usuário possa digitar a música que quer ouvir.
 
 
 
